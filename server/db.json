@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": "763da8d2-c2ed-4c50-9cf3-df9123e560ff",
+      "name": "Handmade Metal Car",
+      "price": "162.00",
+      "image": "http://placeimg.com/640/480/abstract",
+      "inStock": 10,
+      "fastDelivery": true,
+      "ratings": 4
+    },
+    {
+      "id": "6e003bd5-a26e-4ac9-b02e-b4bd2bb4a09d",
+      "name": "Unbranded Granite Mouse",
+      "price": "621.00",
+      "image": "http://placeimg.com/640/480/people",
+      "inStock": 0,
+      "fastDelivery": true,
+      "ratings": 5
+    },
+    {
+      "id": "f7021cf4-0cc5-433b-87ed-2a86cc530cd4",
+      "name": "Handcrafted Plastic Chair",
+      "price": "650.00",
+      "image": "http://placeimg.com/640/480/nightlife",
+      "inStock": 0,
+      "fastDelivery": true,
+      "ratings": 4
+    },
+    {
+      "id": "6e63080c-78b8-49f7-8005-942dee87fa9a",
+      "name": "Handcrafted Frozen Gloves",
+      "price": "148.00",
+      "image": "http://placeimg.com/640/480/business",
+      "inStock": 5,
+      "fastDelivery": false,
+      "ratings": 3
+    },
+    {
+      "id": "9580434f-d662-4b12-9e8b-5e02502fdad0",
+      "name": "Refined Frozen Ball",
+      "price": "430.00",
+      "image": "http://placeimg.com/640/480/technics",
+      "inStock": 10,
+      "fastDelivery": true,
+      "ratings": 5
+    },
+    {
+      "id": "0922f046-89c9-4501-8d5e-df8e0443f346",
+      "name": "Intelligent Granite Chicken",
+      "price": "560.00",
+      "image": "http://placeimg.com/640/480/transport",
+      "inStock": 1,
+      "fastDelivery": true,
+      "ratings": 3
+    },
+    {
+      "id": "08366cfc-f464-47c0-80df-f4d1bf5b7dfa",
+      "name": "Tasty Steel Shirt",
+      "price": "226.00",
+      "image": "http://placeimg.com/640/480/people",
+      "inStock": 0,
+      "fastDelivery": false,
+      "ratings": 5
+    },
+    {
+      "id": "5d925a40-b85e-4e70-95eb-8636d9a79343",
+      "name": "Sleek Wooden Chicken",
+      "price": "895.00",
+      "image": "http://placeimg.com/640/480/city",
+      "inStock": 0,
+      "fastDelivery": true,
+      "ratings": 2
+    },
+    {
+      "id": "02dcf0c2-4211-45e0-b465-81c3506dd250",
+      "name": "Licensed Fresh Ball",
+      "price": "434.00",
+      "image": "http://placeimg.com/640/480/abstract",
+      "inStock": 1,
+      "fastDelivery": false,
+      "ratings": 4
+    },
+    {
+      "id": "e4eaac26-4858-4432-9a5a-471a9beed762",
+      "name": "Intelligent Granite Table",
+      "price": "698.00",
+      "image": "http://placeimg.com/640/480/abstract",
+      "inStock": 0,
+      "fastDelivery": false,
+      "ratings": 2
+    },
+    {
+      "id": "68dbcfb9-55ba-4754-9035-4b2846dc97dc",
+      "name": "Generic Wooden Shirt",
+      "price": "125.00",
+      "image": "http://placeimg.com/640/480/nature",
+      "inStock": 0,
+      "fastDelivery": false,
+      "ratings": 1
+    },
+    {
+      "id": "e3102fd9-9622-445c-aaab-15db8e5c59b6",
+      "name": "Generic Cotton Bacon",
+      "price": "33.00",
+      "image": "http://placeimg.com/640/480/nature",
+      "inStock": 10,
+      "fastDelivery": true,
+      "ratings": 4
+    },
+    {
+      "id": "f8ed2f58-d51d-4cc3-a519-9d9a4d2b6afd",
+      "name": "Ergonomic Concrete Soap",
+      "price": "186.00",
+      "image": "http://placeimg.com/640/480/transport",
+      "inStock": 1,
+      "fastDelivery": true,
+      "ratings": 2
+    },
+    {
+      "id": "f8e4c54a-a1d8-493b-950c-c04276409923",
+      "name": "Awesome Frozen Keyboard",
+      "price": "830.00",
+      "image": "http://placeimg.com/640/480/people",
+      "inStock": 3,
+      "fastDelivery": true,
+      "ratings": 1
+    },
+    {
+      "id": "77d4d5c2-fb5f-4844-ab1c-8f60497c9b16",
+      "name": "Practical Frozen Chips",
+      "price": "706.00",
+      "image": "http://placeimg.com/640/480/transport",
+      "inStock": 1,
+      "fastDelivery": true,
+      "ratings": 4
+    },
+    {
+      "id": "0e9b0145-b55a-4e01-bb8d-73d2f0a09785",
+      "name": "Fantastic Cotton Chips",
+      "price": "205.00",
+      "image": "http://placeimg.com/640/480/food",
+      "inStock": 5,
+      "fastDelivery": true,
+      "ratings": 3
+    },
+    {
+      "id": "1ac84176-bd78-45af-93ac-6c2cbbde4993",
+      "name": "Incredible Plastic Shoes",
+      "price": "758.00",
+      "image": "http://placeimg.com/640/480/abstract",
+      "inStock": 5,
+      "fastDelivery": true,
+      "ratings": 4
+    },
+    {
+      "id": "ba6f45e3-5ff0-4113-b120-16644cd7e627",
+      "name": "Generic Frozen Shoes",
+      "price": "198.00",
+      "image": "http://placeimg.com/640/480/food",
+      "inStock": 0,
+      "fastDelivery": false,
+      "ratings": 5
+    },
+    {
+      "id": "0e70451c-0cd1-405f-abc7-6312f900d534",
+      "name": "Practical Granite Shoes",
+      "price": "584.00",
+      "image": "http://placeimg.com/640/480/technics",
+      "inStock": 10,
+      "fastDelivery": true,
+      "ratings": 3
+    },
+    {
+      "id": "9cac5231-11c6-4e8a-84ca-6fcff21447f2",
+      "name": "Gorgeous Granite Gloves",
+      "price": "698.00",
+      "image": "http://placeimg.com/640/480/fashion",
+      "inStock": 5,
+      "fastDelivery": false,
+      "ratings": 2
+    }
+  ]
+}
