@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+
+.nav {
+  height: 80px;
+  width: 100%;
+  background-color: rgb(27, 27, 27);
+  position: relative;
+}
+.navbar {
+  height: 80px;
+  width: 100%;
+  background-color: rgb(27, 27, 27);
+  position: fixed;
+}
+
+.navbar__nav {
+  display: flex;
+  width: 90%;
+  height: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav__brand {
+  color: orange;
+  font-family: "Playfair Display", serif;
+  font-size: 2rem;
+}
+
+.nav__search {
+  width: 50%;
+
+  .nav__input {
+    outline: none;
+    border: none;
+    padding: 5px 20px;
+    width: 100%;
+    border-radius: 999px;
+  }
+}
+
+.nav__dropdown {
+  position: relative;
+  z-index: 100 !important;
+
+  &:hover {
+    .dropdown__content-box {
+      display: block;
+    }
+  }
+
+  .dropdown__content-box {
+    display: none;
+    position: absolute;
+    padding: 10px;
+    top: 50px;
+    right: 0%;
+    overflow-y: auto;
+
+    min-width: 500px;
+
+    border-radius: 5px;
+
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    .dropdown--cart-btn {
+      margin-top: 10px;
+      padding: 5px;
+      border-radius: 5px;
+      background-color: orange;
+      color: black;
+      border: none;
+      width: 100%;
+    }
+
+    .dropdown__list {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-height: 75vh;
+
+      .dropdown__item {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0px;
+        border-bottom: 1px solid lightgray;
+
+        .item__img {
+          border-radius: 50%;
+          width: 40px;
+          height: 40px;
+          margin-right: 20px;
+        }
+
+        .item__details {
+          flex: 1;
+          .item__qty {
+            font-size: 12px;
+          }
+        }
+
+        .item--delete {
+          padding: 5px 10px;
+          border: none;
+          background-color: black;
+          color: red;
+          border-radius: 3px;
+        }
+      }
+    }
+  }
+}
